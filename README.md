@@ -20,8 +20,8 @@ The project demonstrates proficiency in HTML5, CSS3, JavaScript, responsive web 
 
 **Group Members:**
 1. **Hamza Imran** - Frontend Developer & ICT Project Lead (BU-01-135252-026)
-2. **Saqib** - Project Lead & Full Stack Developer (BU-01-135252-0)
-3. **Shayan** - UI/UX Designer & Frontend Developer (BU-01-1354252-0)
+2. **Saqib** - Project Lead & Full Stack Developer (BU-01-135252-072)
+3. **Shayan** - UI/UX Designer & Frontend Developer (BU-01-1354252-074)
 4. **Uzair** - Content Developer & Documentation Specialist (BU-01-135252-0)
 
 **Individual Contributions:**
