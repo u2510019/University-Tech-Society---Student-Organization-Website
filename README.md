@@ -25,10 +25,10 @@ The project demonstrates proficiency in HTML5, CSS3, JavaScript, responsive web 
 4. **Uzair** - Content Developer & Documentation Specialist (BU-01-135252-0)
 
 **Individual Contributions:**
-- **Saqib Shah:** HTML structure, CSS styling, Bootstrap integration, form validation, GitHub repository management
-- **Hamza Imran:** Project architecture, JavaScript functionality, GitHub Pages deployment setup
-- **Uzair Ali:** Complete UI/UX design, responsive layouts, CSS animations, color scheme
-- **Shayan Khan:** Content creation, documentation, quality assurance, academic compliance
+- **Hamza Imran:** HTML structure, CSS styling, Bootstrap integration, form validation, GitHub repository management
+- **Saqib Shah:** Project architecture, JavaScript functionality, GitHub Pages deployment setup
+- **Shayan Khan:** Complete UI/UX design, responsive layouts, CSS animations, color scheme
+- **Uzair Ali:** Content creation, documentation, quality assurance, academic compliance
 
 ## 🎯 Project Objectives
 
